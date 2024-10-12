@@ -1,0 +1,52 @@
+.Dop{
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+.iconka{
+    background-color: rgb(0, 81, 255);
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contout{
+    font-size: 35px;
+    color: white;
+}
+.curd{
+    display: flex;
+    justify-content: center;
+}
+.resp{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.small{
+    margin-left: 10px !important;
+}
+.resp2{
+    max-width: 300px;
+    font-size: 17px;
+}
+.foll1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px !important;
+}
+.t{
+    background: orange;
+}
+.y{
+    background: rgb(248, 7, 47);
+}
+.f{
+    background:rgb(5, 255, 5);
+}
+.g{
+    background: purple;
+}

@@ -1,0 +1,53 @@
+.Main{
+    background-image: url('./7.jpg');
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.box{
+   background: rgba(0, 113, 219, 0.74);
+   height: 100%;
+   width: 100%  ;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.coniter{
+    text-align: center;
+}
+.he{
+    color: white;
+    font-size: 20px;
+    max-width: 500px;
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+}
+.h{
+    color: white;
+    font-size: 55px !important;
+}
+.butns{
+    display: flex;
+    justify-content: center;
+    gap: 10px !important;
+}
+.bit{
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px !important;
+    border:  none !important;
+}
+.lo{
+    background: rgb(0, 209, 17);
+}
+.ol:hover{
+    color: black;
+    background: white;
+    border: 2px solid white;
+}
+.ol{
+    border: 2px solid white !important;
+    color: white;
+}

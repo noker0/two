@@ -1,0 +1,60 @@
+
+*{
+    padding: 0  ;
+    margin: 0 !important;
+}
+.Nav{
+    background: rgba(0, 113, 219, 0) !important;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border:  none !important;
+    position: absolute;
+    width: 100%;
+}
+.Niq{
+    color: white !important;
+    font-size: 25px !important;
+    font-weight: bold;
+    margin-left: 100px !important;
+}
+.drop:hover{
+   border:  none !important;
+   color: white;
+}
+.drop{
+    border: none !important;
+    color: rgb(190, 190, 190);
+    font-size: 18px;
+
+}
+.lina{
+    text-decoration: none;
+    color: rgb(190, 190, 190);
+    font-size: 18px;
+  margin-left: 450px !important;
+  margin-right: 20px !important;
+}
+.lina:hover{
+    color: white   ;
+}
+.button{
+    border: 2px solid white;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+.button:hover{
+    color: black;
+    background: white;
+    border: 2px solid white;
+}
+.mop{
+    text-decoration: none;
+    color: rgb(190, 190, 190);
+    font-size: 18px;
+
+}
+.mop:hover{
+    color: white   ;
+}

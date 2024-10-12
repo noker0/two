@@ -1,0 +1,54 @@
+.Cards{
+    margin-top: 100px !important;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-left: 5% !important;
+}
+.text-big{
+    font-size: 30px;
+    font-weight: bold;
+    max-width: 300px;
+}
+.text-small{
+    font-size: 20px;
+    max-width: 500px;
+}
+.cardan{
+    width: 350px ;
+    height: 350px;
+}
+.cotner{
+    margin-top: 100px !important;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.l{
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(163, 163, 163);
+    transition: 0.5s;
+}
+.l:hover{
+   transition: 0.5s;
+   translate: -5px -5px;
+   box-shadow: 10px 10px rgb(163, 163, 163);
+}
+.real{
+    font-size: 20px;
+    font-weight: bold;
+   margin-top: 10px !important;
+   margin-bottom: 10px !important;
+}
+.small-text{
+    max-width: 300px;
+}
+.href{
+    margin-top: 10px !important;
+    color: gray;
+    text-decoration: underline gray;
+}

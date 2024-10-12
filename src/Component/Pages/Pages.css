@@ -1,0 +1,64 @@
+.car{
+    padding-top: 150px !important;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(68, 68, 68);
+}
+.cat{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.more{
+    max-width: 650px ;
+    font-size: 18px;
+    margin-bottom: 50px !important;
+}
+.popo{
+    width: 750px;
+    height: 520px;
+}
+.opop{
+    width: 400px;
+    height: 250px;
+}
+.popo,.opop{
+    box-shadow: 10px 10px rgb(202, 202, 202);
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.opop:hover,.popo:hover{
+   box-shadow: 15px 15px rgb(202, 202, 202);
+  translate: -5px -5px;
+   transition: 0.5s;
+}
+.font{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-left: 5% !important;
+}
+.opop:nth-child(1){
+    margin-bottom: 20px !important;
+}
+.jmj1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.jmj2{
+    max-width: 400px;
+}
+.gg-small{
+    text-align: center;
+    width: 400px;
+}
+.gg{
+    margin-top: 100px !important;
+    display: flex;
+    justify-content: space-around;
+}
+.gg:last-child{
+    margin-bottom: 100px !important;
+}

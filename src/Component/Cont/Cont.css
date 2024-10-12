@@ -1,0 +1,24 @@
+.Cont{
+    margin-top: 100px !important;
+    height: 500px;
+    background:  rgb(230, 230, 230);
+    display: flex;
+    justify-content: space-around;
+}
+.roll{
+    width: 450px ;
+    margin-top: 50px !important;
+}
+.toxt{
+    font-size: 30px;
+    color: rgb(71, 71, 71);
+}
+.toxt2{
+    max-width: 450px;
+}
+.texts{
+    margin-top: 100px !important;
+}
+.multy{
+    margin-bottom: 30px !important;
+}
